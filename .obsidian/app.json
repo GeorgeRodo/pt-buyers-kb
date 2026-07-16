@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": [
+    "Home",
+    "index"
+  ],
+  "promptDelete": false
+}
