@@ -4,7 +4,7 @@ type: source
 tags: [agency, phase-1, phase-2, phase-3, phase-4, phase-5, phase-6, phase-7, phase-8]
 status: evergreen
 created: 2026-07-13
-updated: 2026-07-14
+updated: 2026-07-16
 sources: []
 brand: homeos
 verified: false
@@ -12,7 +12,7 @@ verified: false
 
 # Source — Buyer's Agent Playbook Portugal 2026
 
-**Raw file:** `raw/buyers-agent-playbook-portugal-2026.md` (immutable) · **Ingested:** 2026-07-13 · **Second pass:** 2026-07-14
+**Raw file:** `raw/buyers-agent-playbook-portugal-2026.md` (immutable) · **Ingested:** 2026-07-13 · **Second pass:** 2026-07-14 · **Third pass:** 2026-07-16
 
 ## What it is
 A complete operating manual for buyer-only representation in Portugal: 11 chapters + 3 appendices. Chapters 2–9 define the eight-phase buyer journey that serves as this wiki's spine; Ch. 10 profiles seven property types; Ch. 11 covers cross-cutting topics (ethics, regions, expat risk, compliance, fee models, 2026 trends); appendices hold the BRA template, master checklists, scripts and clause language.
@@ -34,5 +34,8 @@ All of `01-ecosystem/` · [[platform-buyers-agency]] · [[market-intelligence]],
 - **Appendix C.1–C.2, C.5 sample scripts** — not filed as standalone content; illustrative dialogue, lower priority than the clauses/checklists/red-flags already covered by existing phase pages.
 - **Appendix C.4 red-flag tables** — cross-checked against existing phase-page red-flag lists; substantively already covered except the area-discrepancy conflict above.
 
+## Third pass (2026-07-16) — Appendix A closed
+Full Appendix A text was pasted into the working session (A.1 nine-category onboarding questionnaire; A.2 fifteen-section BRA outline + fee clauses: capped success fee, flat fee, shared-listing-commission disclosure). Filed into a new page, [[client-onboarding-toolkit]], linked from [[phase-1-onboarding]]. This closes the "Not yet extracted" gap noted after the second pass.
+
 ## Not yet extracted
-Appendix A (client onboarding questionnaire / BRA template) verbatim structure — referenced in [[phase-1-onboarding]] but not transcribed field-by-field.
+Appendix C.1/C.2/C.5 sample scripts (illustrative dialogue) remain unfiled as standalone content — lower priority, per the second-pass note above.

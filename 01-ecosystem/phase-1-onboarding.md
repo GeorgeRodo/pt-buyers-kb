@@ -4,7 +4,7 @@ type: phase
 tags: [phase-1, agency]
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-16
 sources: [src-buyers-agent-playbook-2026]
 brand: homeos
 verified: false
@@ -17,9 +17,9 @@ Everything that happens before a single property is shown. The phase most often 
 ## Subtasks
 
 1. **Lead qualification** — motivation, budget reality, timeline, decision-making authority, AML posture.
-2. **Needs assessment & goal setting** — hard vs. soft criteria; use case (residence, second home, AL investment, relocation).
+2. **Needs assessment & goal setting** — hard vs. soft criteria; use case (residence, second home, AL investment, relocation). Run via the nine-category intake questionnaire in [[client-onboarding-toolkit|the onboarding toolkit]].
 3. **Market & process education** — the seller-biased structure, transaction sequence, cost stack. This session is where trust is built and where [[content-strategy|content]] pre-sells the engagement.
-4. **Buyer Representation Agreement (BRA)** — written mandate, fee model, exclusivity, fiduciary duties. No BRA, no work.
+4. **Buyer Representation Agreement (BRA)** — written mandate, fee model, exclusivity, fiduciary duties. No BRA, no work. Template outline and fee clauses in [[client-onboarding-toolkit]].
 5. **Administrative setup** — NIF, Portuguese bank account, fiscal representative (non-EU), visa lawyer where relevant. Kickoff meeting + twice-weekly 15-minute check-ins until all prerequisites land.
 
 ## Red flags (decline or slow down)

@@ -80,6 +80,7 @@ Flat catalog of every page. Maintainer: update on every ingest. Read this first 
 - [[b2b-partnerships]] — lawyers and premium agencies; double-monetized network.
 - [[sops]] — four SOPs as executions of canonical pages.
 - [[agency-checklists]] — Appendix B checklists (viewing, DD docs, pre-closing, handover, snagging, off-plan completion).
+- [[client-onboarding-toolkit]] — Appendix A: nine-category intake questionnaire + 15-section BRA outline and fee clauses.
 
 ## Syntheses
 - [[syntheses-hub]] — filing rule for compounding answers.
