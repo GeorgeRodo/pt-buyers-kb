@@ -4,8 +4,8 @@ type: concept
 tags: [seismic, structural, phase-4, inspection, lisbon]
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
-sources: [src-construction-defects-prompt-chain]
+updated: 2026-07-20
+sources: [src-construction-defects-prompt-chain, src-global-inspection-research]
 brand: inspectos
 verified: false
 ---
@@ -31,3 +31,7 @@ Ground-floor retail conversions illegally remove infill walls to open the space 
 Diagonal/X shear cracks in columns or walls · exposed corroding rebar at ground-floor columns · infill walls with no visible corner ties to the frame · then STOP and escalate to an OE *perito* — this is Tier 1 territory in the [[phase-4-due-diligence|triage matrix]].
 
 Regional intensity: [[lisbon|Lisbon]] alluvial zones add liquefaction ([[regions-hub]]).
+
+## A stronger international benchmark for the pre-code argument
+
+Japan's JBDPA Is-index seismic-capacity scoring — empirically validated by the 2011 Tōhoku earthquake, where pre-1981 buildings overwhelmingly failed and post-1981 (post "shin-taishin" code) buildings overwhelmingly survived — is a materially sharper evidentiary anchor than anything cited above for "pre-code construction carries quantifiable collapse risk, not just theoretical risk." See [[inspectos-global-benchmarks]] for detail; not yet woven into this page's prose.

@@ -9,7 +9,7 @@ sources: []
 brand: shared
 verified: false
 ---
-
+``
 # Source — Obsidian knowledge-base article (S. Magdy, Medium, Nov 2025)
 
 **Raw file:** not archived (third-party article; clip it via Obsidian Web Clipper into `raw/` if a permanent copy is wanted). · **Ingested:** 2026-07-13

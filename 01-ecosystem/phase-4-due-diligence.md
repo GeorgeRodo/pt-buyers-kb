@@ -1,10 +1,10 @@
 ---
 title: Phase 4 — Comprehensive Due Diligence
 type: phase
-tags: [phase-4, inspection, agency, dl-67-2023, dl-10-2024]
+tags: [phase-4, inspection, agency, dl-67-2023, dl-10-2024, dl-108-2026]
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-20
 sources: [src-buyers-agent-playbook-2026, src-construction-defects-prompt-chain]
 brand: shared
 verified: false
@@ -36,6 +36,7 @@ The load-bearing phase of the whole venture. Four DD streams run in parallel; th
 
 - [[dl-10-2024-simplex|DL 10/2024 (Simplex)]] removed municipal inspection of new builds — private technical DD is now the only verification a buyer gets.
 - [[dl-67-2023|DL 67/2023]] gives strong hidden-defect rights but with a strict 30-day notification window — undocumented defects are unlitigable defects.
+- [[dl-108-2026|DL 108/2026]] (in force 3 August 2026) removes the habitation license as a deed requirement, adding a documentary-verification layer to the desktop audit above: caderneta vs. physical reality, pre-1951 exemption certificate where claimed, strict "reconstruction" (no area/height/volume increase) vs. "extension" classification for any recent works, PEPU submission/fee-payment status, and contractor IMPIC *Alvará* standing. Treat this as a fifth desktop-audit sub-step until the checklist is formally re-numbered.
 
 ## Document checklist and property-type variation
 

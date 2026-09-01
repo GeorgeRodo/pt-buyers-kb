@@ -27,3 +27,5 @@ Decades, not "old houses". "1970s apartments are ticking timebombs (concrete can
 Justifies premium pricing over flashlight competitors. Pin moisture meter · borescope · phenolphthalein rainbow. Format: carousels + Shorts, highly visual.
 
 Downstream: pillar content feeds [[lead-magnets]] which feed [[phase-1-onboarding|Phase 1]] intake for both platforms.
+
+Platform-native posting rules (length, cadence, hooks, hashtags) for each pillar's target platform live in [[social-media-playbook]] — kept separate since those numbers change with platform algorithms, not with our own strategy.

@@ -4,7 +4,7 @@ type: concept
 tags: [cpcv, phase-6, agency]
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-20
 sources: [src-buyers-agent-playbook-2026]
 brand: homeos
 verified: false
@@ -45,5 +45,6 @@ Ten modular clauses, each a template for the buyer's lawyer to adapt — pick th
 | Off-plan completion guarantee | Restates the DL 156/2005 bank guarantee/insurance obligation directly in the CPCV, with a draw right on developer default, insolvency, or non-delivery |
 | Off-plan late delivery penalty | Daily penalty (example: 0.1%/day, capped at 10% of price) for late delivery; force majeure suspends but doesn't extinguish the obligation |
 | AL licence condition precedent | Voidable (or price-adjustable) if RNAAL registration isn't valid/current/renewable — protects buyers whose case depends on short-term-letting income |
+| Urban-title disclosure ([[dl-108-2026|DL 108/2026]]) | CPCV must explicitly document whether an urban title exists, mirroring the notary's mandatory deed declaration (Art. 4 §14). Doing this at CPCV stage rather than leaving it to the deed neutralizes the buyer's own one-year annulment right if the absence was disclosed and priced in — critical for protecting a seller who is knowingly selling Tier 2/3 stock, and equally critical for a buyer's agent to insist on for anything not obviously Tier 1 |
 
 Feeds: [[phase-6-offer-cpcv|Phase 6]] · [[platform-buyers-agency|Agency]] clause library differentiator · [[agency-checklists|Appendix B pre-closing checklist]].

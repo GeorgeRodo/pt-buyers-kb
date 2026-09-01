@@ -4,7 +4,7 @@ type: entity
 tags: [dl-10-2024, phase-4, inspection]
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-20
 sources: [src-construction-defects-prompt-chain]
 brand: shared
 verified: false
@@ -22,3 +22,7 @@ The urbanistic simplification package. Its operative consequence for this ventur
 ## Where it appears
 
 [[phase-4-due-diligence|Phase 4]] framing · [[platform-home-inspection|inspection platform thesis]] · [[scie-fire-safety]] and [[acoustic-defects]] fraud patterns · content angle: "Simplex: why the government no longer inspects your new apartment" and the "Simplex Survival Guide" [[lead-magnets|lead magnet]].
+
+## Superseded/extended by DL 108/2026
+
+[[dl-108-2026|DL 108/2026]] (in force 3 August 2026) is the second phase of the same Simplex reform, not a contradicting law — where this decree removed state *technical* inspection of new builds, DL 108/2026 removes state *documentary* verification at the point of sale too (the habitation license is no longer required to execute a deed). Read this page as "phase one" of a still-unfolding deregulation; DL 108/2026 is where the thesis sharpens.

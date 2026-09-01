@@ -4,7 +4,7 @@ type: hub
 tags: [meta]
 status: evergreen
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 sources: [src-buyers-agent-playbook-2026, src-construction-defects-prompt-chain]
 brand: shared
 verified: false
@@ -45,6 +45,11 @@ Home inspection is deliberately **not** the root of this knowledge base. The buy
 - [[platforms-overview|Platforms overview]] — how the platforms map to the journey
 - [[platform-buyers-agency|Buyer's agency]] · [[platform-home-inspection|Home inspection]]
 - [[monetization-strategy|Monetization strategy]] · [[content-strategy|Content strategy]] · [[lead-magnets|Lead magnets]] · [[b2b-partnerships|B2B partnerships]] · [[sops|SOPs]]
+- [[hiring-hub|Hiring & inspector operations]] — internal company-building content: staffing the inspection platform (not buyer-facing)
+- [[ops-role-hub|Growth & operations role]] — internal company-building content: SEO ownership, workspace access/credentials, tooling & billing for InspectOS + HomeOS (not buyer-facing)
+- [[inspectos-pca-pcs-strategy|InspectOS PCA/PCS strategy]] — the three-tier standard-setting architecture behind [[platform-home-inspection]]
+- [[inspectos-global-benchmarks|Global inspection benchmarks]] — pricing, specialist-niche economics, and Portugal's #1 market-entry ranking
+- [[inspectos-b2b-ecosystem|InspectOS B2B ecosystem]] — lender/insurer/PropTech distribution strategy; Portugal currently has zero formal B2B inspection partnerships
 
 ### The knowledge
 - Legal: [[legal-hub|Legal hub]] — [[dl-67-2023|DL 67/2023 hidden defects]] · [[dl-10-2024-simplex|DL 10/2024 Simplex]] · [[cpcv|CPCV]] · [[condominio-law|Condomínio law]]
@@ -52,7 +57,7 @@ Home inspection is deliberately **not** the root of this knowledge base. The buy
 - Market: [[market-intelligence|Market intelligence]] · [[sourcing-strategy|Sourcing strategy]] · [[comparables|Comparables]] · [[property-types-hub|Property types]]
 - Regions: [[regions-hub|Regions hub]] — [[lisbon|Lisbon]] · [[porto|Porto]] · [[algarve|Algarve]]
 - [[entities-hub|Entities]] — institutions, portals, registries (competing inspection firms, mediators, and buyer's agents file here too, tagged `competitor`)
-- [[syntheses-hub|Syntheses]] — filed answers and analyses
+- [[syntheses-hub|Syntheses]] — filed answers and analyses, incl. the [[open-decisions-tracker|open decisions tracker]]
 
 ### Personas
 - [[personas-hub|Personas hub]] — how buyer segments experience the journey differently

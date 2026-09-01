@@ -4,7 +4,7 @@ type: concept
 tags: [agency, inspection, dl-67-2023]
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-20
 sources: [src-construction-defects-prompt-chain, src-buyers-agent-playbook-2026]
 brand: homeos
 verified: false
@@ -22,3 +22,6 @@ Pitch: "We protect your reputation by catching Simplex-era value engineering bef
 
 ## Reciprocal network (playbook Ch. 11.5)
 Lawyers/notaries are simultaneously B2B clients **and** the top off-market sourcing channel ([[sourcing-strategy|layer 3]]) — the same relationship monetizes twice. Maintain the reciprocation discipline: refer back, log every referral, thank in writing.
+
+## See also
+[[inspectos-b2b-ecosystem]] — the inspection platform's own, much larger B2B distribution strategy (lender panels, insurer bundling, PropTech portal integration), benchmarked against Spain/NL/UK/DE. Distinct channel, same reciprocal-network logic.

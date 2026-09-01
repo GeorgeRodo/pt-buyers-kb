@@ -1,10 +1,10 @@
 ---
 title: Legal Domain Hub
 type: hub
-tags: [dl-67-2023, dl-10-2024, cpcv, condominio]
+tags: [dl-67-2023, dl-10-2024, dl-108-2026, cpcv, condominio]
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-23
 sources: [src-buyers-agent-playbook-2026, src-construction-defects-prompt-chain]
 brand: shared
 verified: false
@@ -18,8 +18,10 @@ The legal layer is what turns technical findings into money and protection. Ever
 
 - [[dl-67-2023|DL 67/2023]] — hidden defects (*vícios ocultos*), the 30-day rule. The single most weaponizable statute for both platforms.
 - [[dl-10-2024-simplex|DL 10/2024 (Simplex)]] — end of municipal inspection of new builds; the market-creating law for the inspection platform.
+- [[dl-108-2026|DL 108/2026]] — in force 3 August 2026; phase two of Simplex, ends state documentary verification at the deed too. One-year buyer annulment window, solidary developer liability, three-tier market stratification.
 - [[cpcv|CPCV]] — the promissory contract; where protection is written or lost.
 - [[condominio-law|Condomínio law]] — Civil Code arts. 1315–1438-A; reserve funds, voting traps, shared-infrastructure liability.
+- [[imt-imi-property-taxes|IMT, IMI & AIMI]] — transfer tax, annual municipal tax, and the high-value wealth surcharge; promoted 2026-07-23 from being cited across every phase-5/7/property-type page without a home.
 
 ## Also tracked (no dedicated page yet — promote when cited 3+ times)
 

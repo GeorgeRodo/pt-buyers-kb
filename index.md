@@ -4,7 +4,7 @@ type: meta
 tags: []
 status: evergreen
 created: 2026-07-13
-updated: 2026-07-14
+updated: 2026-07-23
 sources: []
 brand: shared
 verified: false
@@ -40,8 +40,10 @@ Flat catalog of every page. Maintainer: update on every ingest. Read this first 
 - [[legal-hub]] — legal layer overview; statutes tracked; annual re-verification rule.
 - [[dl-67-2023]] — hidden defects, 30-day rule, reservas, evidence standard.
 - [[dl-10-2024-simplex]] — end of municipal inspection; the inspection market's origin law.
+- [[dl-108-2026]] — in force 3 Aug 2026; end of deed-stage documentary verification, one-year annulment window, solidary developer liability, three-tier market.
 - [[cpcv]] — promissory-contract protection architecture and red flags.
 - [[condominio-law]] — risers, reserve funds, unanimity trap, administrator fraud, DD hooks.
+- [[imt-imi-property-taxes]] — transfer tax, annual municipal tax, wealth surcharge; annual re-verification warning.
 
 ## Domains — construction
 - [[construction-defects-hub]] — filing rules (symptom-first, sacred numbers); page backlog.
@@ -68,6 +70,9 @@ Flat catalog of every page. Maintainer: update on every ingest. Read this first 
 - [[adene]] — EPC registry; desktop verification and fraud field check.
 - [[registo-predial]] — land registry; certidão predial, title/encumbrance checks, area-discrepancy conflict.
 - [[alojamento-local]] — AL/RNAAL licensing, containment zones, post-Mais Habitação regime.
+- [[impic]] — AMI licensing regulator for real estate mediation/agency.
+- [[isq]] — ISQ SAVE/SAVE VALOR; largest inspection/certification body, B2B-only, no consumer channel.
+- [[ahrefs]] · [[google-analytics]] · [[google-tag-manager]] · [[campaign-url-builder]] — growth/marketing tooling, internal, not buyer-facing.
 
 ## Personas
 - [[personas-hub]] — hub; buyer-segment lenses on the 8-phase journey.
@@ -76,21 +81,32 @@ Flat catalog of every page. Maintainer: update on every ingest. Read this first 
 ## Strategy
 - [[monetization-strategy]] — revenue map across the journey; open decisions.
 - [[content-strategy]] — four pillars with formats and canonical source pages.
+- [[social-media-playbook]] — platform-native posting rules (length/cadence/hooks) per pillar; unverified, awaiting first-party data.
 - [[lead-magnets]] — three magnets + backlog; rendering rule.
 - [[b2b-partnerships]] — lawyers and premium agencies; double-monetized network.
 - [[sops]] — four SOPs as executions of canonical pages.
 - [[agency-checklists]] — Appendix B checklists (viewing, DD docs, pre-closing, handover, snagging, off-plan completion).
 - [[client-onboarding-toolkit]] — Appendix A: nine-category intake questionnaire + 15-section BRA outline and fee clauses.
+- [[hiring-hub]] — internal InspectOS hiring/ops cluster (not buyer-facing): [[hiring-talent-market]] · [[hiring-sourcing-channels]] · [[hiring-quality-gates]] · [[hiring-compensation]] · [[hiring-onboarding-retention]] · [[hiring-90day-roadmap]] · [[hiring-strategic-moats]] · [[hiring-non-inspector-roles]] · [[hiring-job-vacancies]]
+- [[ops-role-hub]] — internal growth/ops cluster, both brands, not buyer-facing: [[ops-seo-ownership]] · [[ops-workspace-access]] · [[ops-tools-billing]]
+- InspectOS strategy/technical cluster (feeds [[platform-home-inspection]]): [[inspectos-pca-pcs-strategy]] · [[inspectos-iso17020-accreditation]] · [[inspectos-inspector-app]] · [[inspectos-technical-scope-benchmarks]] · [[inspectos-global-benchmarks]] · [[inspectos-b2b-ecosystem]]
 
 ## Syntheses
 - [[syntheses-hub]] — filing rule for compounding answers.
 - [[inspection-in-the-buyer-journey]] — the founding decomposition argument (evergreen).
 - [[municipal-variance-and-the-thesis]] — Câmara-level variance is operational detail, not a thesis caveat.
+- [[open-decisions-tracker]] — living list of unresolved contradictions and calls needed; update in place as items close.
 
 ## Sources
 - [[src-buyers-agent-playbook-2026]] — playbook summary; extraction status; future passes.
 - [[src-construction-defects-prompt-chain]] — prompt-chain summary; module map; gaps.
 - [[src-obsidian-kb-article]] — methodology source; conventions adopted/rejected.
+- [[src-dl-108-2026-impact-assessment]] — DL 108/2026 impact assessment; two independent analyses combined.
+- [[src-inspectos-talent-master-plan]] — 8-part InspectOS hiring/ops playbook + job vacancies.
+- [[src-inspectos-strategy-technical]] — InspectOS strategy/technical corpus (FAIRBANK Group); PCG/PCA/PCS architecture, ISO 17020 pathway, inspector app R&D, international benchmarks.
+- [[src-global-inspection-research]] — 8-market global inspection industry research; pricing, snagging/mold/seismic niches, Portugal ranked #1 for market entry.
+- [[src-b2b-ecosystem-analysis]] — cross-country B2B competitive intelligence (PT/ES/NL/UK/DE); Portugal has zero formal inspection B2B partnerships.
+- [[src-role-knowledge-base]] — internal role KB: SEO ownership, workspace access/credentials, tooling & billing for InspectOS + HomeOS.
 
 ## Inbox
 - [[about-inbox]] — temporary parking rules; lint passes must empty the folder.
@@ -98,3 +114,10 @@ Flat catalog of every page. Maintainer: update on every ingest. Read this first 
 ## Raw (immutable)
 - `raw/buyers-agent-playbook-portugal-2026.md`
 - `raw/construction-defects-prompt-chain.txt`
+- `raw/DL_108_2026_Impact_Assessment.md` + `raw/DL 108_2026 Real Estate Impact.md` — ingested, see [[src-dl-108-2026-impact-assessment]].
+- `raw/01_Talent_Intelligence.md` through `08_Non_Inspector_Hiring_Plan.md` + `10_Job_Vacancies (1).md`/`10_Ofertas_de_Emprego_PT.md` — ingested, see [[src-inspectos-talent-master-plan]].
+- `raw/InspectOS_Business_Strategy_2026_2031.md`, `InspectOS_ISO_17020_Alignment.md`, `InspectOS_Inspector_App_R&D_Plan (1).md`, `inspectos_technical_scope_technology_report (1).md`, both brochures, `INTEGRATION_ANALYSIS.md`, `InspectOS_Post_August_3_Strategy_Report_REVISED.md` — ingested, see [[src-inspectos-strategy-technical]].
+- `raw/Global_Home_Inspection_Service_Workflow.md`, `global_home_inspection_report.md`, `global_home_inspection_reports_inventory.md` — ingested, see [[src-global-inspection-research]].
+- `raw/b2b_ecosystem_analysis.md` — ingested, see [[src-b2b-ecosystem-analysis]].
+- All 25 unique files dropped 2026-07-20 are now ingested (11 further exact-duplicate uploads were skipped). Batch complete.
+- `raw/knowledge-base-role/` (21 files: `_index.md` + seo/ + workspace-access/ + tools-billing/) — ingested 2026-07-23, see [[src-role-knowledge-base]].

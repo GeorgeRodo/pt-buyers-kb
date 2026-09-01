@@ -16,3 +16,4 @@ Filed answers to good questions. Rule: any query whose answer involved compariso
 
 - [[inspection-in-the-buyer-journey|Why inspection is a subset of the buyer journey, not the frame]] — the founding decomposition argument.
 - [[municipal-variance-and-the-thesis|Why municipal variance doesn't threaten the founding thesis]] — Câmara-level variance is operational detail, not a caveat on the information-asymmetry thesis.
+- [[open-decisions-tracker|Open decisions tracker]] — living list of unresolved contradictions and calls needed across the wiki; update in place rather than re-deriving from log.md each session.

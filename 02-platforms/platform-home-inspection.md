@@ -1,11 +1,11 @@
 ---
 title: Platform 2 — Home Inspection (Forensic Due Diligence)
 type: platform
-tags: [inspection, phase-3, phase-4, phase-7, phase-8, dl-67-2023, dl-10-2024]
+tags: [inspection, phase-3, phase-4, phase-7, phase-8, dl-67-2023, dl-10-2024, dl-108-2026]
 status: draft
 created: 2026-07-13
-updated: 2026-07-13
-sources: [src-construction-defects-prompt-chain, src-buyers-agent-playbook-2026]
+updated: 2026-07-20
+sources: [src-construction-defects-prompt-chain, src-buyers-agent-playbook-2026, src-inspectos-strategy-technical]
 brand: inspectos
 verified: false
 ---
@@ -40,7 +40,14 @@ Two laws created the market:
 - [[sops|SOPs]] 1–4 (desktop audit, exterior scan, interior flip-detection, report writing) turn the knowledge base into a training manual — juniors become forensic within weeks.
 - Regional risk dossiers ([[regions-hub]]) let reports open with geography-specific credibility.
 
+## Strategic reframing: three-tier infrastructure play
+
+A separately-ingested founder-level strategy corpus ([[src-inspectos-strategy-technical]]) reframes this platform far more ambitiously than the paragraphs above: not "home inspection" but a three-tier **Property Condition Gap → Property Condition Assessment → Property Condition Score** architecture, where the PCA is deliberately kept an open, ISO/IEC 17020:2026-aligned standard (so professional bodies and regulators can endorse it without appearing to endorse one company) and the PCS — a proprietary B2B risk score sold to banks and insurers — is where the actual value is captured. [[dl-108-2026|DL 108/2026]] (3 August 2026) is named as the direct commercial launch catalyst. Full detail: [[inspectos-pca-pcs-strategy]], [[inspectos-iso17020-accreditation]], [[inspectos-inspector-app]], [[inspectos-technical-scope-benchmarks]].
+
+> [!warning] Two unresolved conflicts within the InspectOS source corpus, not yet reconciled by Paul:
+> 1. **Employment model.** This strategy source states InspectOS employs inspectors and calls this "non-negotiable" (for ISO 17020 Type A independence and PCS data consistency). The separately-ingested [[hiring-hub|hiring/ops corpus]] builds its entire sourcing and compensation model around contractors (recibo verde) as the primary capacity mechanism, with only 1–2 full-time seniors as an "anchor." These are different operating models, not a terminology gap.
+> 2. **Pricing.** At least three non-matching pricing schemes appear across the InspectOS source cluster — see [[inspectos-pca-pcs-strategy]] for detail. The source material itself acknowledges this is unreconciled.
+
 ## Open questions
 
-- Pricing per product tier — no data in sources yet.
-- Legal qualification requirements to sign reports (when is an OE-registered engineer mandatory vs. an inspector).
+- Legal qualification requirements to sign reports (when is an OE-registered engineer mandatory vs. an inspector) — see [[hiring-quality-gates]] for the vetting-pipeline answer, though it inherits the employment-model conflict above.
